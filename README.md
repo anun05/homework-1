@@ -1,4 +1,4 @@
-# <Code Refactor>
+# Code Refactor
  
 ## Description
 This project is simply updating codes and making it work the same. I did this to ensure that I understand the contcept of modern syntax, but also making sure to minimize codes and making them shorter. 
