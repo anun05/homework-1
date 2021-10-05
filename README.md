@@ -15,10 +15,4 @@ This solves the problem of way too many lines in code when you do not need it. I
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
  the page is simply a webpage for a company, it just needs to be looked up.
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
- The useage of the webpage is to introduce the company's website and show their products and convey to who they are as a brand. 
+
