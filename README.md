@@ -1,4 +1,6 @@
 # Code Refactor
+## Deployed Link
+https://anun05.github.io/homework-1-code-refactor/
  
 ## Description
 This project is simply updating codes and making it work the same. I did this to ensure that I understand the contcept of modern syntax, but also making sure to minimize codes and making them shorter. 
